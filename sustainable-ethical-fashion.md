@@ -159,9 +159,9 @@ A * indicates a brand that does international shipping - if you are not UK based
 
 Mati (6-34)
 
-[The Loom Art] (XS-3XL) petite options also available
+The Loom Art (XS-3XL) petite options also available
 
 [Little Thing Studio](https://www.littlethingstudio.com/) (XS-4XL) also petite, tall and custom sizing available
 
-[Jodi] (XS-3XL) custom options available
+Jodi (XS-3XL) custom options available
 

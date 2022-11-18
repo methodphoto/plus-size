@@ -1,0 +1,9 @@
+/* Default colour for links to Temple Red */
+
+$purple-300: rgb(102, 0, 0);
+$link-color: $purple-300;
+
+/* Headers */
+
+h1, h2 {color: $purple-300 !important; font-weight: bold !important;}
+

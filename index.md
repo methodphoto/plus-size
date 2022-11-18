@@ -20,7 +20,7 @@ A * indicates a brand that does international shipping - if you are not UK based
 
 [Underwear/Lingerie](underwear-lingerie)
 
-	[Sex/Fetish Wear](sex-fetish-wear)
+[Sex/Fetish Wear](sex-fetish-wear)
 	
 [Swimwear Companies](swimwear)
 
