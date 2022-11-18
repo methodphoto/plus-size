@@ -1,9 +1,10 @@
 title: "Plus Size UK Masterlist"
-remote_theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs
 color_scheme: "light"
 color_scheme: wider
-search_enabled: false
-email: charlotteearney@gmail.com
+search_enabled: true
+email: richard@method.co.uk
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 heading_anchors: false
+callouts:
