@@ -1,5 +1,5 @@
 title: "Plus Size UK Masterlist"
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 color_scheme: "light"
 color_scheme: wider
 search_enabled: true
@@ -23,6 +23,5 @@ callouts:
   warning:
     title: Warning
     color: red
-
 plugins:
   - jekyll-default-layout
