@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Inderwear/Lingerie
-nav_order: 7
+title: Underwear/Lingerie
+nav_order: 5
 ---
 
 # {{page.title}}
