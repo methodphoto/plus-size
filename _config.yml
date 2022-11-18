@@ -1,10 +1,28 @@
 title: "Plus Size UK Masterlist"
-remote_theme: just-the-docs
+theme: just-the-docs
 color_scheme: "light"
 color_scheme: wider
 search_enabled: true
 email: richard@method.co.uk
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://methodphoto.github.io/plus-size/" # the base hostname & protocol for your site, e.g. http://example.com
 heading_anchors: false
+callouts_level: quiet # or loud
 callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
+plugins:
+  - jekyll-default-layout
