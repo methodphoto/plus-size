@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Plus Size UK Masterlist
 nav_order: 1
 ---
